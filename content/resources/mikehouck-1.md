@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad59b35b-169a-f645-49f3-b0cb40c47e80
 resourcetype: Image
 title: mikehouck.jpg
 uid: c992cd96-38f4-85b4-86a6-27d9c190cde4

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad59b35b-169a-f645-49f3-b0cb40c47e80
 resourcetype: Document
 title: The Hilltop Campus
 uid: ee66ddf4-e15d-03ce-abd0-794e190c1d9a
