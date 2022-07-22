@@ -9,6 +9,7 @@ image_metadata:
   image-alt: An old mill building by a dam on a river, with autumn trees on the banks
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
