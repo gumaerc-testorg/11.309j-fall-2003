@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, including three
+  photographic assignments and a final essay of images and words.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6f901e31-279b-5d81-8393-2f972f3539c2
 ---
