@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work for the course: a photo essay on Washington,
   DC.'
 file: /courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/ee66ddf4e15d03ceabd0794e190c1d9a_latonyagreen.pdf
+file_size: 168222
 file_type: application/pdf
 learning_resource_types:
 - Projects
