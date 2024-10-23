@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/c992cd9638f485b486a627d9c190cde4_mikehouck.jpg
+file: /ol-ocw-studio-app/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/c992cd9638f485b486a627d9c190cde4_mikehouck.jpg
 file_size: 55879
 file_type: image/jpeg
 image_metadata:
