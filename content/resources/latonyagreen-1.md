@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/f3669f720c3a60d085f87488761463e0_latonyagreen.jpg
+file: /courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/f3669f720c3a60d085f87488761463e0_latonyagreen.jpg
 file_size: 47698
 file_type: image/jpeg
 image_metadata:
